@@ -10,7 +10,7 @@ This fantastic view changes its color gradually makes your app look fantastic!
   s.homepage         = 'https://github.com/Venu-Gopal/Test1'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Venu Gopal' => 'venugopaltewari@gmail.com' }
-  s.source           = { :git => 'https://github.com/Venu-Gopal/Test777.git', :tag => '0.1.0'}
+  s.source           = { :git => 'https://github.com/Venu-Gopal/Test777.git', :tag => '0.1.3'}
  
   s.ios.deployment_target = '10.0'
   s.source_files = '*'
