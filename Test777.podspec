@@ -12,7 +12,7 @@ This fantastic view changes its color gradually makes your app look fantastic!
   s.author           = { 'Venu Gopal' => 'venugopaltewari@gmail.com' }
   s.source           = { :git => 'https://github.com/Venu-Gopal/Test777.git', :tag => '0.1.0'}
  
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '10.0'
   s.source_files = '*'
  
 end
